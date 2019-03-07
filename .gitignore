@@ -1,0 +1,6 @@
+*.o
+*.gcda
+*.gcno
+
+# unitests binary
+units
